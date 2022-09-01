@@ -10,4 +10,8 @@ public class Class2 {
         // Placeholder Method (v2.0)
     }
 
+    private void f3(){
+        // Placeholder Method (v3.0)
+    }
+
 }
