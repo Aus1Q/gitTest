@@ -11,6 +11,6 @@ public class Class1 {
     }
 
     private void f3(){
-        // Placeholder Method (v3.1)
+        // Placeholder Method (v3.1 added hotfix)
     }
 }
