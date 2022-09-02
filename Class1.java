@@ -13,4 +13,8 @@ public class Class1 {
     private void f3(){
         // Placeholder Method (v3.1)
     }
+
+    private void f4(){
+        // Placeholder Method (v4.0)
+    }
 }
